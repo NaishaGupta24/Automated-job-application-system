@@ -57,8 +57,7 @@ A full-stack intelligent job tracker where users upload their resumes and receiv
 ## 🚀 How to Run Locally
 
 ### 1. Clone and Install Dependencies
-```bash
-git clone https://github.com/your-username/jobseeker-aras.git
+###bash
 cd jobseeker-aras
 npm install
 
