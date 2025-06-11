@@ -35,10 +35,10 @@ A full-stack intelligent job tracker where users upload their resumes and receiv
 ![Dashboard](screenshots/dashboard.png)
 
 ### 🔍 Job Search Page
-![Job Search Page](screenshots/search.png)
+![Job Search Page](screenshots/job-search.png)
 
 ### Apply link 
-![Apply link](screenshots/apply link.png)
+![Apply link](screenshots/apply-link.png)
 ---
 
 ## 🛠 Tech Stack
@@ -57,8 +57,7 @@ A full-stack intelligent job tracker where users upload their resumes and receiv
 ## 🚀 How to Run Locally
 
 ### 1. Clone and Install Dependencies
-```bash
-git clone https://github.com/your-username/jobseeker-aras.git
+###bash
 cd jobseeker-aras
 npm install
 
