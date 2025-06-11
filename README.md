@@ -35,7 +35,7 @@ A full-stack intelligent job tracker where users upload their resumes and receiv
 ![Dashboard](screenshots/dashboard.png)
 
 ### 🔍 Job Search Page
-![Job Search Page](screenshots/search.png)
+![Job Search Page](screenshots/job search.png)
 
 ### Apply link 
 ![Apply link](screenshots/apply link.png)
